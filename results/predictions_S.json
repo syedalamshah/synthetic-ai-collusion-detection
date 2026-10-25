@@ -1,0 +1,402 @@
+[
+  {
+    "case_id": "P001",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=2",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P002",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P003",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=3",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P004",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P005",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=2",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P006",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P007",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=3",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P008",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P009",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=2",
+      "excess_rounds=1",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P010",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P011",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=2",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P012",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=1",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P013",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=2",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P014",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P015",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P016",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=1",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P017",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=1",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P018",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P019",
+    "confidence": 0.92,
+    "prediction": 1,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "P020",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN01",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN02",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN03",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN04",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN05",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN06",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN07",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN08",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=3",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN09",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "HN10",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=2",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "IN01",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=0",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "IN02",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=1",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "IN03",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=0",
+      "rejection_rounds=1"
+    ]
+  },
+  {
+    "case_id": "IN04",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=1",
+      "rejection_rounds=1"
+    ]
+  },
+  {
+    "case_id": "IN05",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=0",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "TN01",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=3",
+      "excess_rounds=0",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "TN02",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=1",
+      "excess_rounds=0",
+      "rejection_rounds=0"
+    ]
+  },
+  {
+    "case_id": "TN03",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=0",
+      "rejection_rounds=3"
+    ]
+  },
+  {
+    "case_id": "TN04",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=3",
+      "excess_rounds=0",
+      "rejection_rounds=3"
+    ]
+  },
+  {
+    "case_id": "TN05",
+    "confidence": 0.88,
+    "prediction": 0,
+    "reasons": [
+      "coordination_rounds=0",
+      "excess_rounds=0",
+      "rejection_rounds=0"
+    ]
+  }
+]

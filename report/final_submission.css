@@ -1,0 +1,43 @@
+@page { size: Letter; margin: 0.72in 0.78in 0.72in 0.78in; }
+body {
+  font-family: "Arial", "Helvetica", sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.25;
+  color: #111;
+  max-width: 7.0in;
+  margin: 0 auto;
+}
+h1 { font-size: 17pt; margin: 0.35em 0 0.2em; }
+h2 { font-size: 13pt; margin: 0.65em 0 0.25em; border-bottom: 1px solid #888; }
+h3 { font-size: 11pt; margin: 0.5em 0 0.15em; }
+p { margin: 0.35em 0; }
+blockquote {
+  border-left: 3px solid #888;
+  margin: 0.45em 0;
+  padding: 0.15em 0.7em;
+  color: #333;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.45em 0;
+  font-size: 8.7pt;
+}
+th, td { border: 1px solid #777; padding: 3px 4px; vertical-align: top; }
+th { background: #e9eef5; }
+code { font-family: Consolas, monospace; font-size: 0.88em; }
+pre {
+  background: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 0.45em;
+  font-size: 8.5pt;
+  white-space: pre-wrap;
+}
+ul, ol { margin-top: 0.15em; margin-bottom: 0.35em; }
+li { margin: 0.12em 0; }
+hr { border: 0; border-top: 1px solid #aaa; }
+@media print {
+  h1, h2, h3 { break-after: avoid; }
+  table, blockquote, pre { break-inside: avoid; }
+  a { color: #111; text-decoration: none; }
+}

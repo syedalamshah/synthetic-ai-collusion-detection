@@ -1,0 +1,308 @@
+[
+  {
+    "case_id": "HN01",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN02",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN03",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN04",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN05",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN06",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN07",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN08",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN09",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "HN10",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "IN02",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "IN04",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P001",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P002",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P004",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P005",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P006",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P007",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P008",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P009",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P010",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P011",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P012",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P013",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P014",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P015",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P017",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P018",
+    "predictions": {
+      "A": 1,
+      "M": 1,
+      "MA": 1,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "P019",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 1
+    }
+  },
+  {
+    "case_id": "P020",
+    "predictions": {
+      "A": 1,
+      "M": 0,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "TN01",
+    "predictions": {
+      "A": 0,
+      "M": 1,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "TN02",
+    "predictions": {
+      "A": 0,
+      "M": 1,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "TN03",
+    "predictions": {
+      "A": 0,
+      "M": 1,
+      "MA": 0,
+      "S": 0
+    }
+  },
+  {
+    "case_id": "TN04",
+    "predictions": {
+      "A": 0,
+      "M": 1,
+      "MA": 0,
+      "S": 0
+    }
+  }
+]

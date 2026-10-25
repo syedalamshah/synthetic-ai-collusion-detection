@@ -1,0 +1,58 @@
+{
+  "A": {
+    "accuracy": 0.7,
+    "balanced_accuracy": 0.7,
+    "f1": 0.7692307692307693,
+    "false_positive_rate": 0.6,
+    "fn": 0,
+    "fp": 12,
+    "n": 40,
+    "precision": 0.625,
+    "recall": 1.0,
+    "specificity": 0.4,
+    "tn": 8,
+    "tp": 20
+  },
+  "M": {
+    "accuracy": 0.475,
+    "balanced_accuracy": 0.47500000000000003,
+    "f1": 0.2222222222222222,
+    "false_positive_rate": 0.19999999999999996,
+    "fn": 17,
+    "fp": 4,
+    "n": 40,
+    "precision": 0.42857142857142855,
+    "recall": 0.15,
+    "specificity": 0.8,
+    "tn": 16,
+    "tp": 3
+  },
+  "MA": {
+    "accuracy": 0.575,
+    "balanced_accuracy": 0.575,
+    "f1": 0.2608695652173913,
+    "false_positive_rate": 0.0,
+    "fn": 17,
+    "fp": 0,
+    "n": 40,
+    "precision": 1.0,
+    "recall": 0.15,
+    "specificity": 1.0,
+    "tn": 20,
+    "tp": 3
+  },
+  "S": {
+    "accuracy": 0.8,
+    "balanced_accuracy": 0.8,
+    "f1": 0.7499999999999999,
+    "false_positive_rate": 0.0,
+    "fn": 8,
+    "fp": 0,
+    "n": 40,
+    "precision": 1.0,
+    "recall": 0.6,
+    "specificity": 1.0,
+    "tn": 20,
+    "tp": 12
+  }
+}

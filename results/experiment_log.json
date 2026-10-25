@@ -1,0 +1,30 @@
+{
+  "conditions": [
+    "M",
+    "A",
+    "MA",
+    "S"
+  ],
+  "config": {
+    "action_range": [
+      0,
+      4
+    ],
+    "detection_threshold": 0.5,
+    "harm_rate": 3.0,
+    "master_seed": 20261023,
+    "num_hard_negative": 10,
+    "num_independent_negative": 5,
+    "num_positive": 20,
+    "num_rounds": 3,
+    "num_talk_only_negative": 5,
+    "payoff_rate": 2.0,
+    "pool_per_round": 8,
+    "schema_version": "1.0",
+    "sustainability_limit": 4
+  },
+  "dev_set_implemented": false,
+  "num_cases": 40,
+  "offline": true,
+  "synthetic_pilot": true
+}

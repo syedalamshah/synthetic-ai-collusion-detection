@@ -1,0 +1,38 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+ENV/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Temporary and local rerun artifacts
+tmp/
+temp/
+*.tmp
+results_rerun/
+*.log
+report/final_submission.html
+
+# Keep the nested reference repository local and out of the new repository.
+LLM-Trust-Breaking/
